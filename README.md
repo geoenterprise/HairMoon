@@ -7,7 +7,7 @@ HairMoon is a lunar-based haircut advisor written in Kotlin. It determines wheth
 
 My goal with this software was to deepen my knowledge of Kotlin’s syntax and features, including loops, functions, conditionals, classes, and collections. This project helped me solidify how to write clear, idiomatic Kotlin code that interacts with users and handles input.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/5Cz-xvc12co)
 
 # Development Environment
 
